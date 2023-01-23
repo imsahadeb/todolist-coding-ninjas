@@ -26,10 +26,6 @@ To install the Todo List app, use git:
 git clone git@github.com:imsahadeb/todolist-coding-ninjas.git
 cd todolist-coding-ninjas
 
-
-```bash
-  git clone git@github.com:imsahadeb/todolist-coding-ninjas.git
-  cd todolist-coding-ninjas
 ```
     
 ## Deployment
