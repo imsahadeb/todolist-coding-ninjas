@@ -1,35 +1,30 @@
+# Todo List App Using Vanilla JavaScript
 
-# Todo List App Using Vanila JavaScript
+This is a simple and user-friendly Todo List application that is created using only vanilla JavaScript, HTML, and CSS, without relying on any external libraries. The application is part of a project that was undertaken during the Career Camp course at Coding Ninjas.
 
-This is simple Todo List app that created only with vanila JavaScript and HTML and CSS, wihout using any
-library. This is a part of project during Carear Camp Course in Coding Ninjas.
+## Key Features
 
-
-
-## Features
-
-- Creating ToDo List 
-- Update, Delete ToDo List
-- Preserve The ToDo even after browser Closing
-- Responsive Design
-- Works both on mobile as well as Desktop
-
+- Create ToDo lists with ease
+- Update and delete ToDo lists as needed
+- Preserve ToDo lists even after the browser is closed
+- Responsive design to ensure optimal user experience on both mobile and desktop devices
+- Works seamlessly on both mobile and desktop devices
 
 ## Tech Stack
 
-**Language:** Vanila JavaScript, HTML, CSS
+- Language: Vanilla JavaScript, HTML, CSS
 
+## What I Learned
 
-
-## Lessons Learned
-This help me to understand the use case of Javscript and build strong concept on JavaScript Development.
-
-Learned concept of local storage API and use then in our project to preserve todo list data
-even after closing the browser and retrive them when user reopen the App.
+This project helped me to understand the practical use cases of JavaScript and build a strong foundation in JavaScript development. I also learned about the local storage API and how to use it to preserve ToDo list data even after closing the browser and retrieve them when the user reopens the app.
 
 ## Installation
 
-Install todolist-coding-ninjas with git
+To install the Todo List app, use git:
+
+```bash
+git clone git@github.com:imsahadeb/todolist-coding-ninjas.git
+cd todolist-coding-ninjas
 
 
 ```bash
@@ -38,18 +33,11 @@ Install todolist-coding-ninjas with git
 ```
     
 ## Deployment
-
-To deploy this project run
-
-```bash
-  Open Index.html file in your browser.
-```
-
+To deploy this project, simply open the index.html file in your browser.
 
 ## Demo
 
-Live Demo
-https://imsahadeb.github.io/todolist-coding-ninjas/
+Check out the live demo of the application at https://imsahadeb.github.io/todolist-coding-ninjas/ to see it in action.
 
 
 ## Authors
